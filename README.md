@@ -18,11 +18,10 @@ Python, Scikit-learn, Pandas, NumPy, Streamlit
 4. Project Structure
 fraud-detection-system/  
 ├── app.py  
-├── train_model.py  
+├── RealtimeFraudDetection.py  
 ├── rf_model.pkl  
 ├── iso_model.pkl  
-├── scaler.pkl  
-├── requirements.txt  
+├── scaler.pkl
 └── README.md  
 
 5.Setup and Usage
